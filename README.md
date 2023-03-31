@@ -34,7 +34,7 @@ source env/bin/activate
 
 # For Window
 env/Scripts/activate.bat //In CMD
-env/Scripts/Activate.ps1 //In Powershel
+env/Scripts/Activate.ps1 //In Powershell
 ```
 [Pipenv Reference](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 
